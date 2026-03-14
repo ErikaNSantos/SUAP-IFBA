@@ -1,5 +1,3 @@
-# SUAP-plugin
-
 # SUAP+ IFBA: Matrícula Inteligente 🌿
 
 O **SUAP+ IFBA** é uma extensão de navegador (Manifest V3) desenvolvida para facilitar a vida dos estudantes do IFBA (especialmente do Campus Salvador) durante o período de matrícula. Ela traduz os códigos complexos do SUAP para uma interface legível e ajuda no controle da carga horária do semestre.
