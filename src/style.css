@@ -1,0 +1,28 @@
+.badge-suap {
+    background: #e8f5e9;
+    color: #2e7d32;
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 0.9em;
+    border: 1px solid #c8e6c9;
+}
+
+#suap-plus-panel {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: white;
+    width: 180px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    z-index: 10000;
+    border-top: 4px solid #2f9e41;
+}
+
+.suap-plus-header { font-weight: bold; margin-bottom: 10px; color: #333; }
+.suap-plus-info { font-size: 12px; margin: 5px 0; }
+.suap-plus-bar-bg { background: #eee; height: 8px; border-radius: 4px; margin: 8px 0; }
+.suap-plus-bar-fill { background: #2f9e41; height: 100%; border-radius: 4px; transition: 0.5s; }
+.suap-plus-footer { font-size: 10px; text-align: right; color: #666; }
