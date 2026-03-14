@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "SUAP-IFBA",
   "version": "1.0",
+  "permissions": ["storage","activeTab"],
   "description": "Extensão para acessar o SUAP do IFBA de forma rápida e prática.",
   "icons": {
     "16": "icons/icon16.png",
